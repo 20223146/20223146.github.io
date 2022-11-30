@@ -1,21 +1,13 @@
-# Setup
-title: Lanyon
-tagline: 'A Jekyll theme'
-description: 'A reserved <a href="https://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url: https://20223146.github.io
-paginate: 5
-permalink: pretty
+title: Hello World!
+name: "소프트웨어학과 20223143 조원영"
+email: reverofmillion@kookmin.ac.kr
+description: This is a blog for getting A plus in Eureka Project.
+url: "https://20223146.github.io"
+repository: "Reveroftrillion/Reveroftrillion.github.io"
+twitter_username: I DO NOT USE TWITTER!! Twitter is a waste of time.
+github_username:  20223146
 
-# About/contact
-author:
-	name: Mark Otto
-	url: https://twitter.com/mdo
-	email: markdotto@gmail.com
-
-# Gems
+# Build settings
+theme: minima
 plugins:
-    - jekyll-paginate
-
-# Custom vars
-version: 1.1.0
-google_analytics_id: #UA-XXXX-Y
+  - jekyll-feed
