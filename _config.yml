@@ -3,6 +3,7 @@ title: Jo
 tagline: 'A Jekyll theme'
 description: My fantastic life
 url: http://20223146.github.io
+baseurl: "/20223146"
 paginate: 5
 permalink: pretty
 
