@@ -1,16 +1,16 @@
 # Setup
-title:               Jo
-tagline:             'A Jekyll theme'
-description:         My fantastic life
-url:                 http://20223146.github.io
-paginate:            5
-permalink:           pretty
+title: Jo
+tagline: 'A Jekyll theme'
+description: My fantastic life
+url: http://20223146.github.io
+paginate: 5
+permalink: pretty
 
 # About/contact
 author:		
-  name:          Jo Hyun Joong
-  url:               http://20223146.github.io
-  email:           jeclolas@kookmin.ac.kr
+name: Jo Hyun Joong
+url: http://20223146.github.io
+email: jeclolas@kookmin.ac.kr
 
 # Gems
 plugins:
